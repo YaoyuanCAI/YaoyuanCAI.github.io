@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<div style="height: 30px;"></div>
 
 **Journal Article**
 ======
