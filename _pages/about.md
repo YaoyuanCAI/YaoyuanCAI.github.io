@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 **About me**
 ======
 My name is YaoYuan CAI. From Fall 2016 to Summer 2020, I studied and obtained the Bachelor degree in Mathematics and Applications at the University of Macau. From Fall 2020 to Summer 2024, I am very fortunate to be advised by Prof. HaiWei SUN and obtained the PhD in Mathematics from Faculty of Science and Technology, University of Macau. I am what I am.
