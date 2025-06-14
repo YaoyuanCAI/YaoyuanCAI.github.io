@@ -10,4 +10,4 @@ My name is YaoYuan CAI. From Fall 2016 to Summer 2020, I studied and obtained th
 
 Contact Information
 ======
-Email:cyy22763675_at_gmail_dot_com / [Wechat](https://github.com/YaoyuanCAI/YaoyuanCAI.github.io/tree/master/images/wechat.jpg)
+Email: cyy22763675_at_gmail_dot_com / [Wechat](https://github.com/YaoyuanCAI/YaoyuanCAI.github.io/tree/master/images/wechat.jpg)
