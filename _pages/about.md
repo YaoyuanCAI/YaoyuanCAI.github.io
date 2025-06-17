@@ -12,7 +12,7 @@ My name is YaoYuan CAI. From Fall 2016 to Summer 2020, I studied and obtained th
 ======
 Numerical Linear Algebra\
 Fractional differential equations\
-Numerical method for partial differential equations\
+Numerical method for partial differential equations
 
 
 Contact Information
