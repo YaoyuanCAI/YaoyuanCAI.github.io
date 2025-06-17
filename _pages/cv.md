@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Applied Mathematics, University of Macau, 2020 - 2024, Supervisor : Prof. HaiWei SUN
-* B.S. in Mathematics and Applications, University of Macau, 2016 - 2020
+* Ph.D. in Applied Mathematics, University of Macau, Supervisor : Prof. HaiWei SUN, (2020 - 2024).
+* B.S. in Mathematics and Applications, University of Macau, (2016 - 2020).
 
 Work experience
 ======
-* 2020 - 2024: Teaching Assistant: University of Macau
+* 2020 - 2024: Teaching Assistant (University of Macau).
   
 # Awards
 
