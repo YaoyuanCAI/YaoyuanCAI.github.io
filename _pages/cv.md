@@ -11,54 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Applied Mathematics, University of Macau, 2020 - 2024, Supervisor : Prof. HaiWei SUN
+* B.S. in Mathematics and Applications, University of Macau, 2016 - 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2020 - 2024: Teaching Assistant: University of Macau
+  
+# Awards
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+2020-2024 : **Four times Winner on Dean’s Honor List**, University of Macau.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+2018-2019 : **"Lou Tou Vo" Mathematics Scholarship**, University of Macau.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+2018 : **Second Prize Winner of the first Campus Mathematical Modeling Contest**, University of Macau.
+
+2019 : **Second Prize Winner of the 9th MathorCup University Mathematical Modeling Challenge**, University of Macau.
+
+2019: **Successful Participant of Interdisciplinary Contest In Modeling**, University of Macau.
