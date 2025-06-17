@@ -17,4 +17,4 @@ Numerical method for partial differential equations
 
 Contact Information
 ======
-Email: cyy22763675_at_gmail_dot_com / [Wechat](https://github.com/YaoyuanCAI/YaoyuanCAI.github.io/tree/master/images/wechat.jpg)
+Email: cyy22763675_at_gmail_dot_com 
